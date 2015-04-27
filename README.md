@@ -1,0 +1,2 @@
+# Floater
+Floater jQuery Plugin
